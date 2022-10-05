@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡  Fun fact: ...
 -->
 
 
@@ -26,3 +26,8 @@ Here are some ideas to get you started:
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
+
+# About me
+
+- 🔭 I’m currently working on Flutter, React & NodeJs
+- 🌱 I’m currently learning AWS
