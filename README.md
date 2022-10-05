@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter, React & NodeJs
 - 🌱 I’m currently learning AWS
+
+
+## **Languages and Tools**
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,aws,bootstrap,cs,docker,figma,java,firebase,dart,flutter,github,md,mongodb,mysql,nodejs,react,redux,vscode,vite&perline=11)](https://skillicons.dev)
